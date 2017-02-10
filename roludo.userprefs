@@ -1,0 +1,16 @@
+﻿<Properties StartupItem="roludo/roludo.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="roludo/Shapes.cs">
+    <Files>
+      <File FileName="roludo/Scenographer.cs" Line="473" Column="44" />
+      <File FileName="roludo/Shapes.cs" Line="263" Column="2" />
+      <File FileName="roludo/Globals.cs" Line="31" Column="1" />
+      <File FileName="roludo/Program.cs" Line="10" Column="1" />
+      <File FileName="roludo/Texturer.cs" Line="18" Column="6" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

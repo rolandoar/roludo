@@ -1,0 +1,6 @@
+/home/rar/roludo/roludo/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/rar/roludo/roludo/bin/Debug/roludo.exe.mdb
+/home/rar/roludo/roludo/bin/Debug/roludo.exe
+/home/rar/roludo/roludo/obj/x86/Debug/roludo.exe
+/home/rar/roludo/roludo/obj/x86/Debug/roludo.exe.mdb
+/home/rar/roludo/roludo/bin/Debug/OpenTK.dll
